@@ -14,12 +14,12 @@ A = 0x1E
 S = 0x1F
 D = 0x20
 
-NP_2 = 0x50 
+NP_2 = 0x50 #下鍵
 
 NP_4 = 0x4B #左鍵
 NP_6 = 0x4D #右鍵
 
-NP_8 = 0x48
+NP_8 = 0x48 #上鍵
 
 
 # C struct redefinitions 

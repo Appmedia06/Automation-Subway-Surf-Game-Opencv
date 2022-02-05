@@ -154,7 +154,6 @@ with mp_hand.Hands(max_num_hands=1, min_detection_confidence=0.85,
                 current_key_pressed.add(up_key_pressed)
                 key_pressed = up_key_pressed
                 key_count = key_count + 1
-        
 
         if not keyPressed and len(current_key_pressed) != 0: 
             for key in current_key_pressed:
