@@ -1,4 +1,4 @@
-# Function
+# Automation-Subway-Surf-Game
 To control up, down, left, right direction keys without touching the keyboard.
 # Manipulating Method
 * UP : Index finger
